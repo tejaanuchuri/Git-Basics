@@ -1,1 +1,7 @@
-Hello teja...!
+My first repository is awesome
+ I'm  teja anuchuri and here it's my github respository. if you see this file on my project, it's because I'm learning Git.
+My mood:
+HAPPY
+my favorite colur:
+BLACK
+Thank You so much for reading...!
